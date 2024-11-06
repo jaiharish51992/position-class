@@ -1,0 +1,12 @@
+.box{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+color: aliceblue;
+display: flex;
+flex-direction: column;
+text-align: center;
+margin: 2rem;
+}
+body{
+    border: 1px solid;
+    border-radius: 2px;
+}
